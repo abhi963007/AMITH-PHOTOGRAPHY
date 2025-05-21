@@ -1,5 +1,7 @@
 # 📸 Amith's Obscura - Photography Portfolio
 
+**Live Website:** [amith-photography.netlify.app](https://amith-photography.netlify.app)
+
 ![Amith's Obscura Banner](images/6751d1377fccc800863d4d97_Hero%20Image.avif)
 
 ## ✨ Overview
